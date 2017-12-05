@@ -1,0 +1,29 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "make a command line hangman game",
+  "main": "game.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquire": "^0.4.8",
+    "pkg.json": "^2.0.6",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unboundedimages/Hangman-Cli.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Rodney R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unboundedimages/Hangman-Cli/issues"
+  },
+  "homepage": "https://github.com/unboundedimages/Hangman-Cli#readme"
+}
